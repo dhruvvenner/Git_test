@@ -1,0 +1,18 @@
+body{
+    font-family: Courier;
+    background: linear-gradient(to right,#A9F1DF,#FFBBBB);
+}
+h1{
+    text-align: center;
+}
+/* .title{
+    display:flex;
+}
+.nav{
+    text-align: right;
+    margin: 25px 25px;
+    border-radius: 10px;
+    padding: 10px;
+    background: rgba(255,255,255,0.5);
+    
+} */
